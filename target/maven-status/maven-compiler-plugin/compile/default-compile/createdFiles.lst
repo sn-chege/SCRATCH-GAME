@@ -1,0 +1,13 @@
+com/scratchgame/utils/JsonUtils.class
+com/scratchgame/GameResult.class
+com/scratchgame/Config.class
+com/scratchgame/BonusImpact.class
+com/scratchgame/SymbolType.class
+com/scratchgame/Config$CellProbability.class
+com/scratchgame/Config$BonusProbability.class
+com/scratchgame/WinCombination.class
+com/scratchgame/Game.class
+com/scratchgame/Game$1.class
+com/scratchgame/Config$Probabilities.class
+com/scratchgame/Main.class
+com/scratchgame/Symbol.class

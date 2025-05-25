@@ -1,4 +1,3 @@
-// Symbol.java
 package com.scratchgame;
 
 public class Symbol {

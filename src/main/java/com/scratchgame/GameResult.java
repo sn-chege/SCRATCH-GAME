@@ -1,4 +1,3 @@
-// GameResult.java
 package com.scratchgame;
 
 import com.fasterxml.jackson.core.JsonProcessingException;

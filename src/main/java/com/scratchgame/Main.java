@@ -1,4 +1,3 @@
-// Main.java
 package com.scratchgame;
 
 import com.scratchgame.utils.JsonUtils;

@@ -1,4 +1,3 @@
-// WinCombination.java
 package com.scratchgame;
 
 import java.util.List;

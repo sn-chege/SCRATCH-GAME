@@ -1,4 +1,3 @@
-// BonusImpact.java
 package com.scratchgame;
 
 public enum BonusImpact {

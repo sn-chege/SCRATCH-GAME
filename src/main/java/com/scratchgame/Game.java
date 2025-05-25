@@ -1,4 +1,3 @@
-// Game.java
 package com.scratchgame;
 
 import java.util.*;
